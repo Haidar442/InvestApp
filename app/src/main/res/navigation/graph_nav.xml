@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/graph_nav"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.coding.investapp.presentation.splash_screen.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_portfolioFragment"
+            app:destination="@id/portfolioFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/goalStatusFragment"
+        android:name="com.coding.investapp.presentation.goal_status.GoalStatusFragment"
+        android:label="fragment_goal_status"
+        tools:layout="@layout/fragment_goal_status" >
+        <action
+            android:id="@+id/action_goalStatusFragment_to_educationFragment"
+            app:destination="@id/educationFragment" />
+        <action
+            android:id="@+id/action_goalStatusFragment_to_portfolioFragment"
+            app:destination="@id/portfolioFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/educationFragment"
+        android:name="com.coding.investapp.presentation.education.EducationFragment"
+        android:label="EducationFragment" >
+        <action
+            android:id="@+id/action_educationFragment_to_goalStatusFragment"
+            app:destination="@id/goalStatusFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/portfolioFragment"
+        android:name="com.coding.investapp.presentation.portfolio_list.HomeFragment"
+        android:label="PortfolioFragment" >
+        <action
+            android:id="@+id/action_portfolioFragment_to_goalStatusFragment"
+            app:destination="@id/goalStatusFragment" />
+    </fragment>
+</navigation>

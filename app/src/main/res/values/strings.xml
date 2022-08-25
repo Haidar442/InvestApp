@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Invest App</string>
+    <string name="home_page_title">Home</string>
+    <string name="recommendation_text">In order for you to get back on track and achieve your goal, we recommend following one of these options. Select an option to see it\'s impact on your financial path on the chart.</string>
+    <string name="continue_txt">Continue</string>
+    <string name="our_recommendations">Our Recommendations</string>
+    <string name="connection_problem">Connection Problem!!</string>
+    <string name="selected">Selected</string>
+    <string name="created_at">Created At</string>
+    <string name="id">ID</string>
+    <string name="risk_score">Risk Score</string>
+    <string name="investment_type">Investment Type</string>
+    <string name="invest">Invest</string>
+
+</resources>

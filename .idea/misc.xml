@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidStudioProjects/CryptocurrencyAppYT-app - Copy/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/CryptocurrencyAppYT-app - Copy/app/src/main/res/layout/githubrepo_list_item.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/GithubRepoApp/app/src/main/res/drawable/ic_github.xml" value="0.2165" />
+        <entry key="..\:/androidStudioProjects/GithubRepoApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/GithubRepoApp/app/src/main/res/layout/fragment_repo_detail.xml" value="0.25" />
+        <entry key="..\:/androidStudioProjects/GithubRepoApp/app/src/main/res/layout/fragment_repo_list.xml" value="0.18" />
+        <entry key="..\:/androidStudioProjects/GithubRepoApp/app/src/main/res/layout/fragment_splash.xml" value="0.11061946902654868" />
+        <entry key="..\:/androidStudioProjects/GithubRepoApp/app/src/main/res/layout/githubrepo_list_item.xml" value="0.22" />
+        <entry key="..\:/androidStudioProjects/GithubRepoApp/app/src/main/res/layout/layoutdetail.xml" value="0.22" />
+        <entry key="..\:/androidStudioProjects/GithubRepoApp/app/src/main/res/layout/page_footer_layout.xml" value="0.22" />
+        <entry key="..\:/androidStudioProjects/InvestApp/app/src/main/res/layout/activity_main.xml" value="0.11666666666666667" />
+        <entry key="..\:/androidStudioProjects/InvestApp/app/src/main/res/layout/fragment_education.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidStudioProjects/InvestApp/app/src/main/res/layout/fragment_goal_status.xml" value="0.25" />
+        <entry key="..\:/androidStudioProjects/InvestApp/app/src/main/res/layout/fragment_portfolio_list.xml" value="0.25" />
+        <entry key="..\:/androidStudioProjects/InvestApp/app/src/main/res/layout/fragment_repo_detail.xml" value="0.22" />
+        <entry key="..\:/androidStudioProjects/InvestApp/app/src/main/res/layout/fragment_splash.xml" value="0.209375" />
+        <entry key="..\:/androidStudioProjects/InvestApp/app/src/main/res/layout/option_item.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/InvestApp/app/src/main/res/layout/porfolio_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/androidStudioProjects/InvestApp_new/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/androidStudioProjects/InvestApp_new/app/src/main/res/layout/fragment_education.xml" value="0.209375" />
+        <entry key="..\:/androidStudioProjects/InvestApp_new/app/src/main/res/layout/fragment_goal_status.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/InvestApp_new/app/src/main/res/layout/fragment_portfolio_list.xml" value="0.209375" />
+        <entry key="..\:/androidStudioProjects/InvestApp_new/app/src/main/res/layout/fragment_repo_list.xml" value="0.209375" />
+        <entry key="..\:/androidStudioProjects/InvestApp_new/app/src/main/res/layout/option_item.xml" value="0.18" />
+        <entry key="..\:/androidStudioProjects/InvestApp_new/app/src/main/res/layout/porfolio_item.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
